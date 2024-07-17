@@ -1,5 +1,5 @@
 const GREETINGS = [
-    "Whalecome!",
+    "1111!",
     "All hands on deck!",
     "Charting the course ahead!",
 ];
